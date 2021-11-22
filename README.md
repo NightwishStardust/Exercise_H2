@@ -1,2 +1,2 @@
-# Exercise_H2
-the second game I exercise to build，a 3D RPG
+# Exercise_H1
+The first game I try to make..I need to exercise.
